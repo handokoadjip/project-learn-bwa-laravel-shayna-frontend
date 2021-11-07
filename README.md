@@ -32,7 +32,7 @@ _For more examples and usage, please contact [Handoko Adji Pangestu](https://www
 
 Switch to the repo folder
 
-    cd project-learn-bwa-node-staycation-frontend
+    cd project-learn-bwa-laravel-shayna-frontend
 
 Install all the dependencies using npm or yarn
 
